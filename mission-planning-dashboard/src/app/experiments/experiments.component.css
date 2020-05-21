@@ -1,0 +1,10 @@
+div {
+    border: 1px dotted green;
+    padding: 1%;
+    margin-right: 5%;
+}
+
+h3 {
+    color: green;
+    text-decoration: underline;
+}
